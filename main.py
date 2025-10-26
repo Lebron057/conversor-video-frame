@@ -18,4 +18,4 @@ def frames_de_video(entrada, caminho_saida):
     cv2.destroyAllWindows()
     entrada_capturada.release()
     
-frames_de_video("video.mp4", "frames")
+frames_de_video("caminho_video.mp4", "frames")
